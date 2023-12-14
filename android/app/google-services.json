@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1058288090434",
+    "project_id": "cashtrack-thatexoticbug",
+    "storage_bucket": "cashtrack-thatexoticbug.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058288090434:android:5b29a534281e6d953b5cdb",
+        "android_client_info": {
+          "package_name": "com.thatexoticbug.cashtrack.cashtrack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGYC4ATBhCXF_HYNQsvtTcf67EwATCQQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
